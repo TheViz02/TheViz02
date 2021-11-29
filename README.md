@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheViz02
 - 👀 I’m interested in web development, programming and listening music
-- 🌱 I’m currently learning C++, JavaScript and it's framework!!!
+- 🌱 I’m currently learning C++, JavaScript, PHP and it's framework!!!
 - 📫 How to reach me - instagram @theviz02
 
 <!---
