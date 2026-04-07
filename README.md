@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhupendra Madhu
-- 👀 I’m interested in web development, backend development, programming, exploring world, and listening music
+- 👀 I’m interested in software development, programming, exploring world, and listening music
 - 🌱 I’m currently learning JavaScript, PHP and their framework!!!
 - 📫 How to reach me - [Instagram](https://www.instagram.com/theviz02) [LinkedIn](https://www.linkedin.com/in/bhupendra-madhu/)
 
